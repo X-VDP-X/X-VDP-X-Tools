@@ -1,0 +1,19 @@
+# X-VDP-X
+
+X-VDP-X est un tool multi-modules conçu pour regrouper plusieurs fonctions d'analyse et d'audit : scans réseau, informations IP et serveur, outils OSINT techniques, utilitaires et modules dédiés aux scénarios CTF. Il propose une interface console simple, structurée et rapide permettant d'accéder facilement à chaque fonctionnalité.
+
+## Fonctionnalités
+
+* Scan IP et ports
+* Informations réseau et serveur
+* Outils OSINT techniques
+* Générateurs et utilitaires
+* Modules d'analyse pour environnements contrôlés
+
+## Objectif
+
+Fournir une plateforme centralisée pour l'exploration, l'audit et l'apprentissage en cybersécurité, dans un cadre légal et contrôlé.
+
+## Avertissement
+
+Ce projet est destiné uniquement aux tests autorisés, à l'apprentissage et aux environnements CTF.
